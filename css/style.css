@@ -43,15 +43,16 @@ li {
   color: #2196f3;
 }
 
-h2, h3 {
-  color:#212121);
+h2,
+h3 {
+  color: #212121;
 }
 
 /* hero */
 
 .hero {
-  background-color: #2F303A;
-  color: #FFFFFF;
+  background-color: #2f303a;
+  color: #ffffff;
 }
 
 .hero-title {
@@ -64,15 +65,15 @@ h2, h3 {
 }
 
 .hero-link {
-  color: #FFFFFF;
-  background-color: #2196F3;
+  color: #ffffff;
+  background-color: #2196f3;
 }
 
 .features-title {
   font-size: 14px;
   line-height: 1.14;
   text-transform: uppercase;
-  color:  #212121;
+  color: #212121;
 }
 
 .feature-item {
@@ -80,7 +81,8 @@ h2, h3 {
   line-height: 1.7;
 }
 
-.about-us, .team-title {
+.about-us,
+.team-title {
   font-size: 36px;
   line-height: 1.17;
   text-align: center;
@@ -108,14 +110,14 @@ h2, h3 {
 
 .logo {
   font-family: Raleway;
-  font-weight:700;
+  font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
-  color:  #212121;
+  color: #212121;
 }
 
 .accent {
-  color: #2196F3;
+  color: #2196f3;
 }
 
 /* portfolio style */
@@ -125,24 +127,24 @@ button {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.6;
-  background-color: #F5F4FA;
+  background-color: #f5f4fa;
 }
 
 button:hover,
-button:focus{
-  background-color:#2196F3;
-  color:  #212121;
+button:focus {
+  background-color: #2196f3;
+  color: #212121;
 }
 
 .products .product-title {
   font-size: 18px;
   line-height: 2;
   letter-spacing: 0.06em;
-  color:  #212121;
+  color: #212121;
 }
 
 .products .product-item {
   font-size: 16px;
   line-height: 1.88;
-  color:  #757575;
+  color: #757575;
 }
