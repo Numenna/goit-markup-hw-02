@@ -12,7 +12,9 @@ a {
 li {
   list-style-type: none;
 }
-
+.container {
+  width: 100%;
+}
 .nav .link {
   font-weight: 500;
   font-size: 14px;
@@ -99,11 +101,22 @@ h3 {
   line-height: 1.9;
   /* text-align: center; */
 }
+.footer {
+  background-color: #2f303a;
+}
 
-.address .link {
+.address {
   font-size: 14px;
   line-height: 1.7;
-  color: #757575;
+  color: #ffffff;
+  style: normal;
+}
+
+.link {
+  font-size: 14px;
+  line-height: 1.7;
+  color: rgba(255, 255, 255, 0.6);
+  style: normal;
 }
 
 .logo {
@@ -111,7 +124,7 @@ h3 {
   font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
-  color: #212121;
+  color: #ffffff;
 }
 
 .accent {
